@@ -10,5 +10,6 @@ Jose Alejandro Olvera Lugo
 Idea: push, pop y por qué solo se accede al tope.
 1. Los alumnos son autos y entran al callejón de uno en uno (push). El último en entrar queda
 hasta adelante.
-![Descripción: Primer imagen de la pila](Imagenes/imagen1)
+### Primera imagen de la pila
+![Primera imagen de la pila](Imagenes/imagen1.png)
 
